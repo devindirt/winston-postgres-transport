@@ -31,9 +31,6 @@
     "type": "git",
     "url": "https://github.com/ofkindness/winston-postgres-transport.git"
   },
-  "files": [
-    "lib/**/*"
-  ],
   "homepage": "https://github.com/ofkindness/winston-postgres-transport",
   "bugs": {
     "url": "https://github.com/ofkindness/winston-postgres-transport/issues"
